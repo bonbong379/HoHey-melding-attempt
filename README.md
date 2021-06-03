@@ -4,7 +4,7 @@ This is where we will put our integrated product from now on.
 
 # Update History
 
-Version Alpha 1.0 (29/4/2021):
+Version Alpha 1.1 (03/06/2021):
 We now have the basic functions of a review website, including:
 - Toggle Bar
 - Login System
@@ -15,10 +15,11 @@ We now have the basic functions of a review website, including:
 
 # Known Issues
 
-Version Alpha 1.0 (29/4/2021):
+Version Alpha 1.1 (03/06/2021):
 - Upload Image function not working
 - Home Page 'Blog Posts' is currently only a template
 - Film Detail Page needs reworking on design
+- Search function is botched.
 
 # Future Development
 
